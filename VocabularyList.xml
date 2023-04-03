@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "VocabularyList.xsl"?>
+<vocabulary_list>
+    <item>
+        <image src="image/alarmingly_image.jpg" />
+        <word>Alarmingly</word>
+        <description>in a manner causing alarm or concern : in an alarming manner</description>
+        <sentence>Alarmingly, the number of people infected with the virus has been increasing rapidly.</sentence>
+    </item>
+
+    <item>
+        <image src="image/magnanimous_image.jfif" />
+        <word>Magnanimous</word>
+        <description>showing or characterized by generosity, kindness, or forgiveness, especially towards a rival or someone less powerful than oneself; unselfish.</description>
+        <sentence> The billionaire's magnanimous donation to the charity greatly helped the underprivileged.</sentence>
+    </item>
+
+    <item>
+        <image src="image/perspicacious_image.jpg" />
+        <word>Perspicacious</word>
+        <description>a person who is very perceptive, insightful, and has a sharp intellect to analyze situations deeply and accurately.</description>
+        <sentence>The detective's perspicacious observation skills enabled him to solve the case quickly and efficiently.</sentence>
+    </item>
+
+    <item>
+        <image src="image/bargain_image.jpg" />
+        <word>Bargain</word>
+        <description>an agreement between two or more parties as to what each party will do for the other.</description>
+        <sentence>She bargained with the salesman until she got the price she wanted for the car.</sentence>
+    </item>
+
+    <item>
+        <image src="image/scrutinize_image.png" />
+        <word>Scrutinize</word>
+        <description>to examine something very carefully.</description>
+        <sentence>The scientists carefully scrutinized the data to ensure its accuracy before publishing their findings.</sentence>
+    </item>
+
+    <item>
+        <image src="image/vegetation_image.jfif" />
+        <word>Vegetation</word>
+        <description>plants considered collectively, especially those found in a particular area or habitat.</description>
+        <sentence>The park is known for its lush vegetation, which includes a variety of trees, bushes, and flowers.</sentence>
+    </item>
+
+    <item>
+        <image src="image/redolent_image.jpg" />
+        <word>Redolent</word>
+        <description>smelling strongly of something or having qualities (especially smells) that make you think of something else</description>
+        <sentence>The aroma of freshly baked bread was redolent of my grandmother's kitchen, evoking fond memories of my childhood.</sentence>
+    </item>
+    <item>
+        <image src="image/supercilious_image.jpg" />
+        <word>Supercilious</word>
+        <description>behaving or looking as though one thinks one is superior to others.</description>
+        <sentence>The businessman's supercilious attitude towards his subordinates made them feel small and insignificant.</sentence>
+    </item>
+</vocabulary_list>
